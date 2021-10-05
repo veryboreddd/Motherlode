@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Motherlode:jar">
+    <output-path>$USER_HOME$/.simplebot/privatescripts</output-path>
+    <root id="archive" name="Motherlode.jar">
+      <element id="module-output" name="Motherlode" />
+      <element id="extracted-dir" path="$USER_HOME$/.simplebot/assets/zaros/simplebot-api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.simplebot/assets/zaros/zaros-client.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.simplebot/assets/zaros/simplebot-framework.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
